@@ -3,7 +3,7 @@ package com.scjp.java.code;
 /*
  
   
-  Find the second largest number in an integer array
+  Find the sum and average of all elements in an integer array
   
   
 */import java.util.Arrays;
